@@ -1,6 +1,6 @@
 package com.crm.javaprograms;
 
-public class Example {
+public class ExampleReverse {
 	
 	   public void reverseWordInMyString(String str)
 	   {
@@ -30,7 +30,7 @@ public class Example {
 	public static void main(String[] args) {
 		
 		 
-			Example obj = new Example();
+			ExampleReverse obj = new ExampleReverse();
 			obj.reverseWordInMyString("Welcome");
 			obj.reverseWordInMyString("This is an easy Java Program");
 		   
